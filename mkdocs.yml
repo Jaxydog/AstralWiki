@@ -1,5 +1,5 @@
 site_name: Astral Documentation
-site_url: https://astral-smp.readthedocs.io
+site_url: https://astral-smp.readthedocs.io/en/latest
 nav:
   - Home: index.md
   - Origins Extensions:
