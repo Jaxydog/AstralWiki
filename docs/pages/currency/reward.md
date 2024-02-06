@@ -5,6 +5,9 @@ They hold no intrinsic value, yet they *are* exchanged as they can be combined i
 
 File path: `<namespace>:currency/rewards.json`
 
+???+ WARNING
+    Setting a reward's weight to `0` or lower will prevent it from dropping.
+
 ### Format
 
 #### File
