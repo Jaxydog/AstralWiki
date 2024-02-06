@@ -2,6 +2,7 @@ site_name: Astral Documentation
 site_url: https://astral-smp.readthedocs.io/en/latest
 nav:
   - Home: index.md
+  - Currency System: pages/currency/index.md
   - Origins Extensions:
       - General Types:
           - Data Types: pages/origins/data_types/index.md
