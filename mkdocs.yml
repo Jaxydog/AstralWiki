@@ -53,6 +53,7 @@ theme:
       toggle:
         name: Switch to system theme
         icon: material/theme-light-dark
+repo_name: Astral
 repo_url: https://github.com/Jaxydog/Astral
 extra:
   social:
