@@ -1,0 +1,78 @@
+site_name: Astral Documentation
+site_url: https://astral-smp.readthedocs.io
+nav:
+  - Home: index.md
+  - Origins Extensions:
+      - General Types:
+          - Data Types: pages/origins/data_types/index.md
+          - Power Types: pages/origins/power_types/index.md
+      - Action Types:
+          - Bi-entity Action Types: pages/origins/action_types/bientity/index.md
+          - Block Action Types: pages/origins/action_types/block/index.md
+          - Entity Action Types: pages/origins/action_types/entity/index.md
+          - Item Action Types: pages/origins/action_types/item/index.md
+          - Meta Action Types: pages/origins/action_types/meta/index.md
+      - Condition Types:
+          - Bi-entity Condition Types: pages/origins/condition_types/bientity/index.md
+          - Biome Condition Types: pages/origins/condition_types/biome/index.md
+          - Block Condition Types: pages/origins/condition_types/block/index.md
+          - Damage Condition Types: pages/origins/condition_types/damage/index.md
+          - Entity Condition Types: pages/origins/condition_types/entity/index.md
+          - Fluid Condition Types: pages/origins/condition_types/fluid/index.md
+          - Item Condition Types: pages/origins/condition_types/item/index.md
+          - Meta Condition Types: pages/origins/condition_types/meta/index.md
+theme:
+  name: material
+  logo: images/icon.png
+  favicon: images/icon.png
+  language: en
+  icon:
+    repo: material/github
+  features:
+    - content.code.annotate
+    - navigation.expand
+  font:
+    text: Fira Sans
+    code: Fira Code
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        name: Switch to light mode
+        icon: material/weather-sunny
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        name: Switch to dark mode
+        icon: material/weather-night
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        name: Switch to system theme
+        icon: material/theme-light-dark
+repo_url: https://github.com/Jaxydog/Astral
+extra:
+  social:
+    - link: https://github.com/Jaxydog/AstralWiki
+      icon: material/pencil
+      name: Edit wiki source
+markdown_extensions:
+  - admonition
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: table
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
