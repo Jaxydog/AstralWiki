@@ -47,15 +47,3 @@ If a value's associated item has not been registered, the value will be ignored.
     While it is possible for multiple items to have the same currency representation, doing so will cause conflicts between systems where the exchanging system will only ever choose one of the definitions.
 
     To avoid this, you are encouraged to use custom modded items instead of relying on vanilla content.
-
-???+ BUG
-    Currently, there is no check for empty lists within reward exchanging.
-    If a skeleton's cost list is empty, it will cause an infinite loop and cause the game to hang.
-
-    This issue will be fixed in v1.7.0.
-
-???+ BUG
-    Currently, currency values are exchanged regardless of namespace.
-    This will cause issues when multiple sources define units of equal or conflicting value.
-
-    This issue will be fixed in v1.7.0 when the `exchanges` field is introduced.
