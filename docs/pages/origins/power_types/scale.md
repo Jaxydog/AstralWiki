@@ -47,3 +47,7 @@ they will be 3 blocks tall and will be able to reach up to around 4.5 blocks awa
 ```
 
 Decreases the entity's reach by 50% while they are sneaking, resetting back to default when the condition is false.
+
+---
+
+Added: v1.0.0

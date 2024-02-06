@@ -14,3 +14,7 @@ A [String](https://origins.readthedocs.io/en/1.10.0/types/data_types/string/) us
 | `waxing_crescent` | A waxing-crescent moon. |
 | `first_quarter`   | A first-quarter moon.   |
 | `waxing_gibbous`  | A waxing-gibbous moon.  |
+
+---
+
+Added: v1.0.0, Last Updated: v1.4.0

@@ -85,3 +85,7 @@ Consumes two charges to convert cobblestone into mossy cobblestone once.
 ```
 
 Consumes 8 charges to grow a slime to the next size up.
+
+---
+
+Added: v1.6.0

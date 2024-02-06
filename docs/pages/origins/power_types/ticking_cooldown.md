@@ -58,3 +58,7 @@ of protection equipped.
 
 A cooldown of 60 ticks (3 seconds) that repeatedly triggers itself and outputs "This only triggers when being set
 directly, not whilst ticking!" to the entity's chat when reset.
+
+---
+
+Added: v1.7.0

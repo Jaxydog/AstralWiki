@@ -33,3 +33,7 @@ Type ID: `astral:unobstructed_block_in_radius`
 ```
 
 Checks for a block of unobstructed glowstone within a 5-block sphere of the entity.
+
+---
+
+Added: v1.7.0, Last Updated: v1.7.0

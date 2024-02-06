@@ -6,10 +6,10 @@ Type ID: `astral:moon_phase`
 
 ### Fields
 
-| Field    | Type                                                                                                                    | Default    | Description                          |
-| -------- | ----------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ |
-| `phase`  | [Moon Phase](../data_types/moon_phase.md)                                                                               | *optional* | If set, the moon phase to test for.  |
-| `phases` | [Array](https://origins.readthedocs.io/en/1.10.0/types/data_types/array/) of [Moon Phases](../data_types/moon_phase.md) | *optional* | If set, the moon phases to test for. |
+| Field    | Type                                                                                                                       | Default    | Description                          |
+| -------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ |
+| `phase`  | [Moon Phase](../../data_types/moon_phase.md)                                                                               | *optional* | If set, the moon phase to test for.  |
+| `phases` | [Array](https://origins.readthedocs.io/en/1.10.0/types/data_types/array/) of [Moon Phases](../../data_types/moon_phase.md) | *optional* | If set, the moon phases to test for. |
 
 ### Examples
 
@@ -35,3 +35,7 @@ Checks whether the current moon phase is a waxing gibbous.
 ```
 
 Checks whether the current moon phase is *not* a full moon or new moon.
+
+---
+
+Added: v1.0.0, Last Updated: v1.0.0

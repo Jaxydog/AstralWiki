@@ -41,3 +41,7 @@ Checks if the current entity position is within 8 blocks of the coordinates X: 2
 ```
 
 Checks if the current entity position is within 4 blocks of sea level at X: 0, Y: 0.
+
+---
+
+Added: v1.0.0, Last Updated: v1.2.1

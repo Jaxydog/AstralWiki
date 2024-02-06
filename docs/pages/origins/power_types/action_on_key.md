@@ -74,3 +74,7 @@ recharged.
 
 Shoots the player into the air when the primary key is pressed, only recharging and / or activating whilst standing on a
 movement-blocking (solid) block.
+
+---
+
+Added: v1.7.0

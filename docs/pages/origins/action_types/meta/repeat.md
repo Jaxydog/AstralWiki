@@ -37,3 +37,7 @@ Type ID: `astral:repeat`
 ```
 
 Attempts to give the player a custom gold nugget 9 times with a 50% chance of success per-iteration.
+
+---
+
+Added: v1.0.0, Last Updated: v1.0.0

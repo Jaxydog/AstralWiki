@@ -11,3 +11,7 @@ A [String](https://origins.readthedocs.io/en/1.10.0/types/data_types/string/) us
 | ---------------- | -------------------------------------------------------------- |
 | `multiplicative` | The value acts as a multiplier of the entity's base scale.     |
 | `additive`       | The value is added to a multiplier of the entity's base scale. |
+
+---
+
+Added: v1.0.0, Last Updated: v1.0.0
