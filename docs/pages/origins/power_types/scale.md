@@ -50,4 +50,4 @@ Decreases the entity's reach by 50% while they are sneaking, resetting back to d
 
 ---
 
-Added: v1.0.0
+Added: v1.0.0, Last Updated: v1.0.0
