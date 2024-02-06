@@ -14,4 +14,4 @@ A [String](https://origins.readthedocs.io/en/1.10.0/types/data_types/string/) us
 
 ---
 
-Added: v1.0.0, Last Updated: v1.0.0
+Added: v1.0.0, Last Updated: v1.0.0, Deprecated: v1.7.0
