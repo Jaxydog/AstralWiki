@@ -18,7 +18,6 @@ See [Power JSON](https://origins.readthedocs.io/en/1.10.0/json/power/) for more 
 ### Modifying Types
 
 - [Modify Scale](modify_scale.md)
-- [Scale (DEPRECATED)](scale.md)
 
 ### Preventing Types
 
