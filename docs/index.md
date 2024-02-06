@@ -5,4 +5,4 @@ This wiki will provide an overview of all content added by this mod, as well as 
 !!! INFO
     These pages are a work in progress, so content may be scarce or even entirely absent.
 
-    Assume all pages and page contents are subject to change.
+    You should assume that all pages and their contents are subject to change.
