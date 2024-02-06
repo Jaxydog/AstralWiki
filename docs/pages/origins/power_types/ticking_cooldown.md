@@ -61,4 +61,4 @@ directly, not whilst ticking!" to the entity's chat when reset.
 
 ---
 
-Added: v1.7.0, , Last Updated: v1.7.0
+Added: v1.7.0, Last Updated: v1.7.0

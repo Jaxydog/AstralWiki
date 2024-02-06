@@ -88,4 +88,4 @@ Consumes 8 charges to grow a slime to the next size up.
 
 ---
 
-Added: v1.6.0, , Last Updated: v1.7.0
+Added: v1.6.0, Last Updated: v1.7.0

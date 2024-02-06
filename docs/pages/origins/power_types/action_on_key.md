@@ -77,4 +77,4 @@ movement-blocking (solid) block.
 
 ---
 
-Added: v1.7.0, , Last Updated: v1.7.0
+Added: v1.7.0, Last Updated: v1.7.0
