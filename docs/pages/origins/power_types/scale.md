@@ -17,7 +17,7 @@ Type ID: `astral:scale`
 | `reach`         | [Float](https://origins.readthedocs.io/en/1.10.0/types/data_types/float/)     | `1.0`              | The entity's reach scale.                                                                          |
 | `motion`        | [Float](https://origins.readthedocs.io/en/1.10.0/types/data_types/float/)     | `1.0`              | The entity's motion scale.                                                                         |
 | `jump`          | [Float](https://origins.readthedocs.io/en/1.10.0/types/data_types/float/)     | `1.0`              | The entity's jump scale.                                                                           |
-| `reset_on_lost` | [Boolean](https://origins.readthedocs.io/en/1.10.0/types/data_types/boolean/) | `false`            | Whether to reset all modified scales back to `0.0` when the power is "lost" (removed or disabled). |
+| `reset_on_lost` | [Boolean](https://origins.readthedocs.io/en/1.10.0/types/data_types/boolean/) | `false`            | Whether to reset all modified scales back to `1.0` when the power is "lost" (removed or disabled). |
 | `operation`     | [Scale Operation](../data_types/scale_operation.md)                           | `"multiplicative"` | The operation with which to scale.                                                                 |
 
 ### Examples
