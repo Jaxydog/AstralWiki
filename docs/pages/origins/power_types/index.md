@@ -14,6 +14,7 @@ See [Power JSON](https://origins.readthedocs.io/en/1.10.0/json/power/) for more 
 
 - [Action on Key](action_on_key.md)
 - [Action on Spray](action_on_spray.md)
+- [Action when Sprayed](action_when_sprayed.md)
 
 ### Modifying Types
 

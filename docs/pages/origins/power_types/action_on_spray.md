@@ -2,7 +2,12 @@
 
 Executes an action when using any form of spray bottle on a block or entity.
 
+This is the inverse of [Action when Sprayed](action_when_sprayed.md).
+
 Type ID: `astral:action_on_spray`
+
+???+ NOTE
+    In this bi-entity context, the 'actor' is the entity holding the bottle and the power, and the 'target' is the entity being sprayed.
 
 ### Fields
 
